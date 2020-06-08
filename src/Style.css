@@ -1,0 +1,109 @@
+ /*----Footer CSS-----*/
+ .footer-copyright{
+    background-color: lightseagreen;
+}
+
+.mdbContainer{
+    background-color: aqua;
+}
+
+.F-title{
+    margin-left: 35px;
+}
+/*--------------*/
+
+/*--------media-----*/
+.navBar2{
+  opacity: 1;
+  background-color: beige;
+}
+
+.mediaNav{
+    font-size: 18px;
+}
+.ad1{
+    height: 150px;
+    background-color: silver;
+    height: 150px;
+    margin-left: 170px;
+    margin-right: 170px;
+    margin-top: 10px;
+}
+.ad1 h1{
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.firstContainer{
+    height: max-content;
+    border: 1px solid black;
+}
+
+.secondContainer{
+    height: 1200px;
+}
+.thirdContainer{
+    height: 1000px;
+    background-color: royalblue;
+    border: 1px solid black;
+}
+
+.ad2{
+    height: 400px;
+   
+    background-color: cadetblue;
+    border-bottom: 1px solid black;
+}
+.ad2 p{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.Cal{
+    border-bottom: 1px solid black;
+}
+
+.Cal2{
+  border-bottom: 1px solid black;
+}
+
+.cardContainer{
+   background-color: black;
+}
+.Headline{
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  opacity: 0.3;
+  height: 200px;
+  width: 55%;
+  background-color: blanchedalmond;
+}
+.ContentBody{
+  border-bottom: 1px solid black;
+}
+.smallBox{
+  height: 200px;
+  width: 30%;
+  float: left;
+  padding: 5px;
+  background-color: cadetblue;
+  border: 1px solid black;
+}
+.ad3{
+  height: 400px;
+  background-color: cadetblue;
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+}
+.ad3 p{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+/*--------*/
